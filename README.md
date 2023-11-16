@@ -5,9 +5,9 @@
 <tr>
       <td>
     <ul>        
-<li> <a href="https://www.udemy.com/course/learn-kql-for-microsoft-sentinel" target="_blank"><img height = 30 width = 50 src= "https://user-images.githubusercontent.com/20562985/221462647-dc68d83b-c823-4356-965f-45dd18b5a2fa.png"> Learn Kql for Microsoft Sentinel | 2000+ Enrollments | 4.2 ⭐ </a> </li>
-<li> <a href="https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md#:~:text=8-,samikroy,-470" target="_blank">Top 5 Microsoft Sentinel Contributor</a> </li>
-<li> Entitled as L5 Sentinel Black Belt for Private Previews </li>
+<li> <a href="https://mvp.microsoft.com/en-US/mvp/profile/a6f7082b-21fa-e911-a99a-000d3a1378f6" target="_blank">Microsoft MVP - Azure </a> </li>
+<li> <a href="https://azure4you.com" target="_blank">Visit at my Blog </a> </li>
+<li> <a href="https://www.amazon.in/Azure-Administrator-Exam-Prep-AZ-104/dp/9355512295/ref=asc_df_9355512295/?tag=googleshopdes-21&linkCode=df0&hvadid=649227509885&hvpos=&hvnetw=g&hvrand=4868638078773152879&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061895&hvtargid=pla-1932120603021&psc=1&mcid=20ac99d418d2349d9c940d9e6a953904" target="_blank">Order My Book </a> </li>
 <li> Spoken in 30+ Events about Cloud & Cloud Security</li>
 <li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
 <li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
