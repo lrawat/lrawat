@@ -5,27 +5,18 @@
 <tr>
       <td>
     <ul>        
-<li> <a href="https://mvp.microsoft.com/en-US/mvp/profile/a6f7082b-21fa-e911-a99a-000d3a1378f6" target="_blank">Microsoft MVP - Azure </a> </li>
-<li> <a href="https://azure4you.com" target="_blank">Visit at my Blog </a> </li>
-<li> <a href="https://www.amazon.in/Azure-Administrator-Exam-Prep-AZ-104/dp/9355512295/ref=asc_df_9355512295/?tag=googleshopdes-21&linkCode=df0&hvadid=649227509885&hvpos=&hvnetw=g&hvrand=4868638078773152879&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061895&hvtargid=pla-1932120603021&psc=1&mcid=20ac99d418d2349d9c940d9e6a953904" target="_blank">Order My Book </a> </li>
-<li> Spoken in 30+ Events about Cloud & Cloud Security</li>
-<li> <a href="https://www.linkedin.com/in/roysamik/recent-activity/posts/" target="_blank">Published 10 + Articles with more than 10K views on Linkedin.</li>
-<li> <a href="https://www.powershellgallery.com/packages/D4IOT/0.0.0.3" target="_blank">Published a PS Module for Defeder for IOT</a></li>
-<li> <a href="https://www.linkedin.com/groups/8768381/" target="_blank">Moderatig Microsoft Sentinel Community</a></li>
-<li> Sharing  in <a href="https://www.linkedin.com/in/roysamik/" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206221996-a9f62e1b-b4f5-41d8-8575-69312b485691.png"></a> & building on <a href="https://github.com/samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206223895-50b8777b-feb9-4585-9f4c-f839874e790c.png"></a>  & exploring <a href="https://www.youtube.com/@samikroy" target="_blank"><img height = 20 width = 20 src= "https://user-images.githubusercontent.com/20562985/206222784-5103f54e-7ef5-4991-a21e-af654b8b928a.png"></a>
-      </li>
+      <a href = "https://www.amazon.in/Azure-Administrator-Exam-Prep-AZ-104/dp/9355512295/ref=asc_df_9355512295/?tag=googleshopdes-21&linkCode=df0&hvadid=649227509885&hvpos=&hvnetw=g&hvrand=4868638078773152879&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061895&hvtargid=pla-1932120603021&psc=1&mcid=20ac99d418d2349d9c940d9e6a953904"><img height = 200 width = 200 src= "https://github.com/lrawat/lrawat/assets/30176425/fbd604f5-5ea5-4ef3-9f61-7d29b9cf1416"></a>
 </ul>
           </td>
       <td>
             <div align="center">
-                  🔔 Organizing Global Azure Bangalore 2023
-            <br/>May 13th, 2023
+                  🔔 Microsoft Most Valuable Professional - Azure
                   <br/>
-            <img height = 100 width = 100 src="https://user-images.githubusercontent.com/20562985/231532484-1d3d1e1b-d017-4ed0-bcd4-a6187cf2e738.png">
+                  2019 - 2023
+                  <br/>
+            <img height = 100 width = 100 src="https://github.com/lrawat/lrawat/assets/30176425/fa2eba2b-4dc6-49af-a57f-2c6e62e614c6">
             <br/>
-                  <a href="https://bengaluru.globalazure.in/" target="_blank">Website </a>
-                  <br/>
-                  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7063840881241436160/">Success Story</a>
+                  <a href="https://mvp.microsoft.com/en-US/mvp/profile/a6f7082b-21fa-e911-a99a-000d3a1378f6">Success Story</a>
                   </div>
             </td>
             </tr>
